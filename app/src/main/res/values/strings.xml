@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ZubovaMobilka</string>
+
+
+    <string name="note_details_title">Заметка</string>
+    <string name="save">Сохранить</string>
+    <string name="delete">Очистить всё</string>
+    <string name="empty">Создайте новую заметку</string>
+    <string name="completed">Выполнение</string>
+
+    <string name="noteName">Текст заметки</string>
+    <string name="noteDone">Сделано</string>
+    <string name="noteCreate">Новая заметка</string>
+    <string name="todo">TODO</string>
+</resources>

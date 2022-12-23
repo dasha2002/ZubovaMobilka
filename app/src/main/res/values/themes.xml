@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ZubovaMobilka" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/myColor</item>
+        <item name="colorPrimaryDark">@color/myColorT</item>
+        <item name="colorAccent">#9EA9E8</item>
+    </style>
+
+    <style name="Theme.ZubovaMobilka.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="ZubovaMobilka.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="ZubovaMobilka.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
